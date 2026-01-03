@@ -4,3 +4,5 @@
 - Git basics
 - Commits and branches
 - Pushing to GitHub
+  
+- Edited from GitHub
